@@ -1,0 +1,14 @@
+D:\Praticando-c#\arrays\arrays\bin\Debug\netcoreapp3.1\arrays.exe
+D:\Praticando-c#\arrays\arrays\bin\Debug\netcoreapp3.1\arrays.deps.json
+D:\Praticando-c#\arrays\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.json
+D:\Praticando-c#\arrays\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.dev.json
+D:\Praticando-c#\arrays\arrays\bin\Debug\netcoreapp3.1\arrays.dll
+D:\Praticando-c#\arrays\arrays\bin\Debug\netcoreapp3.1\arrays.pdb
+D:\Praticando-c#\arrays\arrays\obj\Debug\netcoreapp3.1\arrays.csproj.AssemblyReference.cache
+D:\Praticando-c#\arrays\arrays\obj\Debug\netcoreapp3.1\arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praticando-c#\arrays\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfoInputs.cache
+D:\Praticando-c#\arrays\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfo.cs
+D:\Praticando-c#\arrays\arrays\obj\Debug\netcoreapp3.1\arrays.csproj.CoreCompileInputs.cache
+D:\Praticando-c#\arrays\arrays\obj\Debug\netcoreapp3.1\arrays.dll
+D:\Praticando-c#\arrays\arrays\obj\Debug\netcoreapp3.1\arrays.pdb
+D:\Praticando-c#\arrays\arrays\obj\Debug\netcoreapp3.1\arrays.genruntimeconfig.cache
